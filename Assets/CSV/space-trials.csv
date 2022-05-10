@@ -1,0 +1,7 @@
+﻿object_index,object_label,loc_x,loc_y,loc_z,loc_label,is_contact
+0,placeholder,-10,5,-10,placeholder,No
+1,placeholder,-10,5,-10,placeholder,No
+2,placeholder,-10,5,-10,placeholder,No
+1,placeholder,10,5,-10,placeholder,No
+2,placeholder,10,5,-10,placeholder,No
+0,placeholder,10,5,-10,placeholder,No
